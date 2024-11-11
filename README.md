@@ -2,8 +2,7 @@
 <h1 align="center">👋 Hello, I'm Sergio</h1>
 <h3 align="center">A passionate Software Engineer and Coding Enthusiast from Italy</h3>
 
-[![flat](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![flat](https://github-profile-trophy.vercel.app/?username=sergio0comella&theme=onedark)
 
 ---
 
