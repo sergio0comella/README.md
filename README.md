@@ -124,11 +124,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergio0comella&show_icons=true&locale=en" alt="sergio0comella" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=sergio0comella&show_icons=true&locale=en" alt="sergio0comella" style="display: inline-block; width: 40%; margin-right: 10px;" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio0comella&" alt="sergio0comella" style="display: inline-block; width: 40%;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio0comella&" alt="sergio0comella" />
-</p>
+
 
 ---
