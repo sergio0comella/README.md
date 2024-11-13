@@ -1,8 +1,5 @@
 
 <h1 align="center">👋 Hello, I'm Sergio</h1>
-<h3 align="center">A passionate Software Engineer and Coding Enthusiast from Italy</h3>
-
-![flat](https://github-profile-trophy.vercel.app/?username=sergio0comella&theme=onedark)
 
 ---
 
@@ -13,6 +10,12 @@
 - **Team Player and Calm Under Pressure**: I thrive in collaborative environments and handle high-stress situations with calm and clarity. My ability to remain focused during complex challenges is a defining trait.
 - **Ready to Tackle Challenges**: I am a professional eager to contribute with dedication and expertise to innovative and challenging software projects.
 - **I usually write tech articles** on [NerdHub](https://www.nerdhub.it/).
+
+---
+
+<h3 align="center">A passionate Software Engineer and Coding Enthusiast from Italy</h3>
+
+![flat](https://github-profile-trophy.vercel.app/?username=sergio0comella&theme=onedark)
 
 ---
 
